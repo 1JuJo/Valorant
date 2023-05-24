@@ -1,0 +1,8 @@
+if the game has a language update it is required to update the language in the settings if i havnt already done it on github here is a guide on how to do it:
+1.Set the language to english 
+2.Restart game via RiotLauncher
+3.Open valofix.bat
+4.Change game back to japanese
+5.Restart again via RiotLauncher
+6.Open valofix.bat
+7.Close game and open autovalorant.bat
